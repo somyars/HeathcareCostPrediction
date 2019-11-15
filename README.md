@@ -24,6 +24,7 @@ On plotting the specific diseases of “Diseases of Circulatory System” we get
 
 ## Cost Bucketing
 To reduce the noise in the data as well as reduce the effect of extremely expensive members we partition the cost into buckets. 
+
 ![Repo List](screenshots/bucket.PNG)
 
 When we plot the Cost Buckets 1 to 5 against the sum of total charges we get the above graph. This means that the highest charges is in the 4th cost bucket. However, 2nd bucket forms the highest number of members i.e. 30310 which is 39% of the entire population. 
